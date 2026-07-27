@@ -1,91 +1,85 @@
 # Alejandro Medina
 
-**QA Junior | Manual Testing | API Testing | Python | Automation**
+**QA Junior | Manual Testing | API Testing | Python | Test Automation**
 
 QA Junior orientado a la calidad de software, con formación en testing manual, pruebas de APIs y automatización.
 
-Actualmente construyo proyectos prácticos para aplicar diseño de casos de prueba, análisis de resultados, documentación técnica, control de versiones y ejecución automatizada de pruebas.
+Actualmente desarrollo proyectos prácticos para aplicar buenas prácticas de testing, documentación técnica, control de versiones y automatización de pruebas, construyendo un portfolio enfocado en entornos reales.
 
 ---
 
-## Proyecto destacado
+# Proyecto destacado
 
-### [SauceDemo QA Automation Framework](https://github.com/MedinaAle20/saucedemo-qa-automation-framework)
+## 🧪 SauceDemo QA Automation Framework
 
-Framework de automatización de pruebas web desarrollado con **Python, Selenium y Pytest**, orientado a la validación de los principales flujos funcionales de SauceDemo.
+Framework de automatización de pruebas web desarrollado con **Python, Selenium WebDriver y Pytest**, diseñado para validar los principales flujos funcionales de SauceDemo siguiendo buenas prácticas de automatización.
 
-**Características principales:**
+### Características
 
 - Automatización de escenarios funcionales.
-- Organización mediante Page Object Model.
-- Ejecución y validación de pruebas con Pytest.
-- Gestión del código con Git y GitHub.
-- Integración continua con GitHub Actions.
-- Documentación para instalación y ejecución.
+- Arquitectura Page Object Model (POM).
+- Ejecución mediante Pytest.
+- Integración con GitHub Actions.
+- Documentación de instalación y uso.
+- Organización profesional del proyecto.
 
-[Ver repositorio →](https://github.com/MedinaAle20/saucedemo-qa-automation-framework)
-
----
-
-## Conocimientos y herramientas
-
-### Quality Assurance
-
-- Testing manual y funcional.
-- Diseño y ejecución de casos de prueba.
-- Reporte y seguimiento de defectos.
-- Análisis de requerimientos.
-- Pruebas exploratorias.
-- Técnicas de diseño de pruebas.
-- Gestión de incidencias.
-
-### API Testing
-
-- HTTP y arquitectura REST.
-- Postman.
-- Validación de códigos de estado.
-- Headers, parámetros y cuerpos JSON.
-- Pruebas positivas y negativas.
-
-### Automatización y programación
-
-- Python.
-- Selenium WebDriver.
-- Pytest.
-- Page Object Model.
-- GitHub Actions.
-
-### Datos y entorno profesional
-
-- SQL y bases de datos.
-- Git y GitHub.
-- Jira.
-- Scrum.
-- Documentación técnica.
+➡️ **Repositorio:**
+https://github.com/MedinaAle20/saucedemo-qa-automation-framework
 
 ---
 
-## Actualmente aprendiendo
+# Tecnologías y herramientas
 
-- Automatización de pruebas web.
-- Testing de APIs REST.
-- Playwright.
-- Integración continua.
-- Python aplicado a QA.
-- Calidad de sistemas basados en inteligencia artificial.
-- Fundamentos de seguridad y automatización.
+## Quality Assurance
+
+- Manual Testing
+- Functional Testing
+- Test Case Design
+- Exploratory Testing
+- Defect Reporting
+- Root Cause Analysis
+- Incident Management
+
+## API Testing
+
+- REST APIs
+- HTTP
+- Postman
+- JSON
+- Status Code Validation
+- Positive & Negative Testing
+
+## Automatización
+
+- Python
+- Selenium WebDriver
+- Pytest
+- Page Object Model
+- GitHub Actions
+
+## Herramientas
+
+- Git
+- GitHub
+- SQL
+- Jira
+- Scrum
 
 ---
 
-## Objetivo profesional
+# Actualmente aprendiendo
 
-Busco incorporarme como **QA Junior**, aportando mi experiencia en supervisión de operaciones, control de calidad, análisis de incidencias y mejora continua.
-
-Mi objetivo es evolucionar progresivamente hacia **QA Automation Engineer**, especializándome en automatización, pruebas de APIs y construcción de soluciones confiables.
+- Test Automation
+- REST API Testing
+- Playwright
+- Continuous Integration
+- Python aplicado a QA
+- AI Quality
+- Security Fundamentals
 
 ---
 
-## Competencias transferibles
+# Competencias transferibles
 
 Durante más de cinco años como Supervisor de Operaciones desarrollé habilidades que considero directamente aplicables al trabajo en Quality Assurance:
 
@@ -99,8 +93,24 @@ Durante más de cinco años como Supervisor de Operaciones desarrollé habilidad
 
 ---
 
-## Contacto
+# Objetivo profesional
 
-- [LinkedIn](https://www.linkedin.com/in/alejandro-medina-ar)
-- [GitHub](https://github.com/MedinaAle20)
-- Correo: `medinaale93@gmail.com`
+Busco desarrollarme como **QA Junior**, aportando una combinación de experiencia operativa, pensamiento analítico y formación técnica para contribuir a la calidad del software.
+
+Mi objetivo es evolucionar hacia **QA Automation Engineer**, especializándome en automatización, pruebas de APIs e integración continua.
+
+---
+
+# Contacto
+
+**LinkedIn**
+
+https://www.linkedin.com/in/alejandro-medina-ar
+
+**GitHub**
+
+https://github.com/MedinaAle20
+
+**Email**
+
+medinaale93@gmail.com
