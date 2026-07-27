@@ -85,17 +85,17 @@ Mi objetivo es evolucionar progresivamente hacia **QA Automation Engineer**, esp
 
 ---
 
-## Experiencia transferible
+## Competencias transferibles
 
-Cuento con más de cinco años de experiencia en supervisión de operaciones y coordinación de equipos, desarrollando competencias aplicables al trabajo en calidad de software:
+Durante más de cinco años como Supervisor de Operaciones desarrollé habilidades que considero directamente aplicables al trabajo en Quality Assurance:
 
-- Control y cumplimiento de procesos.
-- Detección y seguimiento de incidencias.
-- Análisis de causa raíz.
-- Monitoreo de indicadores.
-- Aplicación de acciones correctivas.
-- Capacitación y acompañamiento de equipos.
-- Organización y mejora continua.
+- Verificación del cumplimiento de procesos y procedimientos.
+- Identificación, análisis y seguimiento de incidencias.
+- Investigación de causas raíz y resolución de problemas.
+- Monitoreo y análisis de indicadores (KPIs).
+- Implementación y seguimiento de acciones correctivas.
+- Capacitación y acompañamiento de equipos de trabajo.
+- Enfoque en la mejora continua y la optimización de procesos.
 
 ---
 
