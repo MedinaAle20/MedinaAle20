@@ -1,55 +1,106 @@
-# Hola, soy Alejandro Medina 👋
+# Alejandro Medina
 
 **QA Junior | Manual Testing | API Testing | Python | Automation**
 
-Estoy construyendo mi perfil profesional en calidad de software, con foco en testing manual, pruebas de APIs y automatización.
+QA Junior orientado a la calidad de software, con formación en testing manual, pruebas de APIs y automatización.
 
-Actualmente desarrollo proyectos prácticos que me permiten aplicar buenas prácticas de QA, documentación, control de versiones y ejecución automatizada de pruebas.
+Actualmente construyo proyectos prácticos para aplicar diseño de casos de prueba, análisis de resultados, documentación técnica, control de versiones y ejecución automatizada de pruebas.
+
+---
 
 ## Proyecto destacado
 
-### 🧪 SauceDemo QA Automation Framework
+### [SauceDemo QA Automation Framework](https://github.com/MedinaAle20/saucedemo-qa-automation-framework)
 
-Framework de automatización de pruebas web desarrollado con Selenium, Pytest y Python.
+Framework de automatización de pruebas web desarrollado con **Python, Selenium y Pytest**, orientado a la validación de los principales flujos funcionales de SauceDemo.
 
-Incluye:
+**Características principales:**
 
 - Automatización de escenarios funcionales.
+- Organización mediante Page Object Model.
+- Ejecución y validación de pruebas con Pytest.
+- Gestión del código con Git y GitHub.
+- Integración continua con GitHub Actions.
+- Documentación para instalación y ejecución.
+
+[Ver repositorio →](https://github.com/MedinaAle20/saucedemo-qa-automation-framework)
+
+---
+
+## Conocimientos y herramientas
+
+### Quality Assurance
+
+- Testing manual y funcional.
+- Diseño y ejecución de casos de prueba.
+- Reporte y seguimiento de defectos.
+- Análisis de requerimientos.
+- Pruebas exploratorias.
+- Técnicas de diseño de pruebas.
+- Gestión de incidencias.
+
+### API Testing
+
+- HTTP y arquitectura REST.
+- Postman.
+- Validación de códigos de estado.
+- Headers, parámetros y cuerpos JSON.
+- Pruebas positivas y negativas.
+
+### Automatización y programación
+
+- Python.
+- Selenium WebDriver.
+- Pytest.
 - Page Object Model.
-- Ejecución con Pytest.
-- Integración con GitHub Actions.
-- Documentación técnica del proyecto.
+- GitHub Actions.
 
-[Ver proyecto](https://github.com/MedinaAle20/saucedemo-qa-automation-framework)
+### Datos y entorno profesional
 
-## Tecnologías y herramientas
+- SQL y bases de datos.
+- Git y GitHub.
+- Jira.
+- Scrum.
+- Documentación técnica.
 
-- QA Manual
-- Diseño y ejecución de casos de prueba
-- API Testing
-- Postman
-- HTTP
-- Python
-- Selenium
-- Pytest
-- SQL
-- Git y GitHub
-- GitHub Actions
+---
 
 ## Actualmente aprendiendo
 
-- Automatización de pruebas
-- Testing de APIs
-- Playwright
-- Integración continua
-- Calidad aplicada a inteligencia artificial
-- Fundamentos de seguridad
+- Automatización de pruebas web.
+- Testing de APIs REST.
+- Playwright.
+- Integración continua.
+- Python aplicado a QA.
+- Calidad de sistemas basados en inteligencia artificial.
+- Fundamentos de seguridad y automatización.
+
+---
 
 ## Objetivo profesional
 
-Busco desarrollarme como **QA Junior**, evolucionando hacia automatización de pruebas y construcción de soluciones confiables orientadas a calidad de software.
+Busco incorporarme como **QA Junior**, aportando mi experiencia en supervisión de operaciones, control de calidad, análisis de incidencias y mejora continua.
+
+Mi objetivo es evolucionar progresivamente hacia **QA Automation Engineer**, especializándome en automatización, pruebas de APIs y construcción de soluciones confiables.
+
+---
+
+## Experiencia transferible
+
+Cuento con más de cinco años de experiencia en supervisión de operaciones y coordinación de equipos, desarrollando competencias aplicables al trabajo en calidad de software:
+
+- Control y cumplimiento de procesos.
+- Detección y seguimiento de incidencias.
+- Análisis de causa raíz.
+- Monitoreo de indicadores.
+- Aplicación de acciones correctivas.
+- Capacitación y acompañamiento de equipos.
+- Organización y mejora continua.
+
+---
 
 ## Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/alejandro-medina-ar)
 - [GitHub](https://github.com/MedinaAle20)
+- Correo: `medinaale93@gmail.com`
