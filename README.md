@@ -59,6 +59,20 @@ Aplicación local que usa IA para convertir requerimientos, historias de usuario
 
 ---
 
+## Proyecto adicional
+
+### Tobby Treehouse TD: Invasion Ants
+
+Juego 2D desarrollado en Unity como proyecto personal, orientado a practicar lógica de gameplay, organización de escenas, control de personajes, música, interfaz y flujo de niveles.
+
+**Tecnologías:** Unity, C#, Git, GitHub.
+
+**Valor para QA:** aporta práctica en análisis de comportamiento, detección de errores, pruebas de flujo, validación de estados del juego y pensamiento técnico aplicado a software interactivo.
+
+**Estado:** proyecto personal en desarrollo.
+
+---
+
 ## Próximos proyectos del portfolio
 
 - **ParaBank Manual QA Testing:** proyecto manual orientado a flujos bancarios/fintech.
