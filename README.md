@@ -1,165 +1,28 @@
-# Alejandro Medina
+# Alejandro Medina — QA Junior / Automation
 
-**QA Junior | Manual Testing | API Testing | Python | Test Automation | IA aplicada a QA**
+**QA Junior | Manual & API Testing | Python | Automation**
 
-QA Junior enfocado en calidad de software, documentación técnica y mejora continua. Estoy construyendo un portfolio práctico con proyectos de testing manual, pruebas de APIs, automatización web e IA aplicada a documentación QA.
-
-Mi enfoque combina criterio funcional, trazabilidad, reporte claro de defectos y automatización progresiva con herramientas reales de trabajo.
+QA Junior specialized in manual and API testing with practical experience in building automation using Python, Selenium and Pytest. I focus on clear test design, traceability and producing artifacts recruiters can review quickly.
 
 ---
 
-## Proyectos destacados
+## Tech & Tools
 
-### SauceDemo QA Automation Framework
-
-Framework de automatización QA para validar flujos web de SauceDemo y endpoints públicos de JSONPlaceholder.
-
-**Tecnologías:** Python, Pytest, Selenium WebDriver, Requests, Page Object Model, GitHub Actions.
-
-**Incluye:**
-
-- Pruebas UI de login, catálogo, carrito, checkout y logout.
-- Pruebas API con requests GET, POST y DELETE.
-- Arquitectura Page Object Model.
-- Reportes, capturas ante fallos y ejecución por markers.
-- Integración con GitHub Actions.
-
-**Repositorio:** https://github.com/MedinaAle20/saucedemo-qa-automation-framework
+Python · Selenium · Pytest · REST APIs · Postman · SQL · Git / GitHub · GitHub Actions (CI/CD)
 
 ---
 
-### OrangeHRM Manual QA Testing
+## Portfolio (selected)
 
-Proyecto de QA manual funcional orientado a documentar un proceso completo de testing web para portfolio profesional.
-
-**Enfoque:** análisis funcional, planificación, diseño de casos, trazabilidad, reporte de defectos y evidencia de ejecución.
-
-**Repositorio:** https://github.com/MedinaAle20/orangehrm-manual-qa-testing
+- **saucedemo-qa-automation-framework** — QA automation framework (Selenium + Pytest) validating SauceDemo flows and public API endpoints. https://github.com/MedinaAle20/saucedemo-qa-automation-framework
+- **orangehrm-manual-qa-testing** — Manual QA project: test plans, test cases, evidence and defect reports for OrangeHRM. https://github.com/MedinaAle20/orangehrm-manual-qa-testing
+- **QA-Documentation-AgenteIA** — AI agent that generates QA documentation (RTM, test plans, cases) and exports to Excel/Markdown. https://github.com/MedinaAle20/QA-Documentation-AgenteIA
 
 ---
 
-### QA Documentation IA Agent
+## Hiring / Contact
 
-Aplicación local que usa IA para convertir requerimientos, historias de usuario o criterios de aceptación en documentación QA manual siguiendo STLC y fundamentos ISTQB.
+Available for Junior QA / Automation roles. Contact:
 
-**Tecnologías:** Python, Streamlit, Gemini API, Excel, Markdown, PyInstaller.
-
-**Incluye:**
-
-- Análisis de requerimientos.
-- Matriz de trazabilidad (RTM).
-- Plan de pruebas.
-- Casos de prueba manuales.
-- Checklist de entorno.
-- Plantillas de ejecución, defect log y test summary.
-- Exportación a Excel y Markdown.
-- App local y versión de escritorio empaquetable.
-
-**Repositorio:** https://github.com/MedinaAle20/QA-Documentation-AgenteIA
-
----
-
-## Proyecto adicional
-
-### Tobby Treehouse TD: Invasion Ants
-
-Juego 2D desarrollado en Unity como proyecto personal, orientado a practicar lógica de gameplay, organización de escenas, control de personajes, música, interfaz y flujo de niveles.
-
-**Tecnologías:** Unity, C#, Git, GitHub.
-
-**Valor para QA:** aporta práctica en análisis de comportamiento, detección de errores, pruebas de flujo, validación de estados del juego y pensamiento técnico aplicado a software interactivo.
-
-**Estado:** proyecto personal en desarrollo.
-
----
-
-## Próximos proyectos del portfolio
-
-- **ParaBank Manual QA Testing:** proyecto manual orientado a flujos bancarios/fintech.
-- **Restful Booker API QA Testing:** proyecto técnico de pruebas API con validaciones positivas, negativas y trazabilidad.
-
----
-
-## Skills QA
-
-### Testing manual
-
-- Análisis de requerimientos.
-- Diseño de casos de prueba.
-- Pruebas funcionales.
-- Pruebas exploratorias.
-- Reporte y seguimiento de defectos.
-- Trazabilidad requisito-caso.
-- Evidencia de ejecución.
-
-### API Testing
-
-- REST APIs.
-- HTTP methods.
-- JSON.
-- Status codes.
-- Validaciones positivas y negativas.
-- Postman.
-- Requests con Python.
-
-### Automatización
-
-- Python.
-- Selenium WebDriver.
-- Pytest.
-- Page Object Model.
-- GitHub Actions.
-- Reportes HTML y capturas de errores.
-
-### Herramientas y metodología
-
-- Git y GitHub.
-- SQL básico.
-- Jira.
-- Scrum.
-- Excel para documentación QA.
-- IA aplicada a documentación de testing.
-
----
-
-## Actualmente aprendiendo
-
-- Automatización de pruebas web.
-- API Testing técnico.
-- Integración continua.
-- Playwright.
-- Buenas prácticas ISTQB.
-- Seguridad básica aplicada a QA.
-- Uso responsable de IA en procesos de calidad.
-
----
-
-## Competencias transferibles
-
-Durante más de cinco años como Supervisor de Operaciones desarrollé habilidades directamente aplicables a Quality Assurance:
-
-- Verificación del cumplimiento de procesos y procedimientos.
-- Identificación, análisis y seguimiento de incidencias.
-- Investigación de causa raíz y resolución de problemas.
-- Monitoreo y análisis de indicadores (KPIs).
-- Implementación y seguimiento de acciones correctivas.
-- Capacitación y acompañamiento de equipos de trabajo.
-- Enfoque en mejora continua y optimización de procesos.
-
----
-
-## Objetivo profesional
-
-Busco desarrollarme como **QA Junior**, aportando pensamiento analítico, criterio funcional, documentación clara y una base técnica en automatización.
-
-Mi objetivo es evolucionar hacia **QA Automation Engineer**, especializándome en automatización web, pruebas de APIs e integración continua.
-
----
-
-## Contacto
-
-**LinkedIn:** https://www.linkedin.com/in/alejandro-medina-ar
-
-**GitHub:** https://github.com/MedinaAle20
-
-**Email:** medinaale93@gmail.com
+- LinkedIn: https://www.linkedin.com/in/alejandro-medina-ar
+- Email: medinaale93@gmail.com
