@@ -51,8 +51,8 @@ AI-assisted project for generating structured QA artifacts such as test plans, t
 
 I'm also working on larger projects where I apply software engineering, automation and quality practices:
 
-- **PixelForge** — tooling and experimentation around a pixel-art production pipeline.
-- **Laia** — virtual assistant platform with workflow automation and integrations.
+- **PixelForge** — local pixel-art production pipeline for Unity with deterministic processing and QA controls.
+- **Laia** — virtual assistant platform with workflow automation, persistence and integrations.
 - **Tobby: Treehouse TD** — game project used to practice structured development, testing and production workflows.
 - **Charvis** — local AI assistant architecture exploring memory, providers, orchestration and developer tooling.
 
@@ -62,13 +62,13 @@ Some active projects remain private while they are under development.
 
 ## 🧰 Tools, Frameworks & Reference Repositories
 
-My GitHub also contains repositories used as **development tools, references, experiments or upstream projects**.
+My GitHub also contains repositories used as **development tools, upstream projects, experiments or technical references**. These are not presented as original work.
 
 Examples include:
 
-OmniRoute · GitNexus · agency-agents · gstack · n8n · Chatwoot · Evolution API · open-notebook
+OmniRoute · GitNexus · agency-agents · agentic-qa-boilerplate · automaton · barehands · gstack · n8n · Chatwoot · Evolution API · open-notebook
 
-These repositories are part of my development environment and research workflow; they should not be confused with the original projects highlighted above.
+For a clearer ownership/project breakdown, see **[Repository Map](./REPOSITORIES.md)**.
 
 ---
 
