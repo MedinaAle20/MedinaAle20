@@ -1,92 +1,47 @@
 # Alejandro Medina
 
-### QA Engineer in Progress | Manual Testing · API Testing · Test Automation · Python
+### Software Quality | Manual QA · API Testing · Test Automation with Python
 
-I'm building my career around **Software Quality Engineering**, combining strong QA fundamentals with automation, APIs, data validation and AI-assisted quality practices.
+I build practical QA projects that combine test analysis, clear documentation, API validation and maintainable automation. My portfolio focuses on evidence: what was designed, what is automated and what still requires human review.
 
-My current focus is moving from **manual and technical QA into modern test automation and Quality Engineering**, building practical projects that demonstrate not only how to execute tests, but how to design maintainable quality processes.
+## QA focus
 
----
+- Functional, regression and smoke testing
+- Test scenarios, test cases and traceability
+- REST API testing and data validation
+- Python automation with Pytest and Selenium
+- Page Object Model and CI with GitHub Actions
 
-## 🧪 QA & Quality Engineering
+I am currently strengthening automation architecture, data quality and responsible use of AI in testing. I present these as areas of continued development, not as completed expertise.
 
-**Core**
-- Manual Testing
-- Test Design & Test Cases
-- Functional / Regression / Smoke Testing
-- Defect Reporting & Traceability
-- REST API Testing
-- SQL & Data Validation
-
-**Automation**
-- Python
-- Selenium
-- Pytest
-- Git / GitHub
-- GitHub Actions / CI
-
-**Working toward**
-- Playwright
-- Modern automation architecture
-- Data Quality
-- AI-assisted testing
-- AI Quality & Security foundations
-
----
-
-## 🚀 Featured QA Projects
+## Featured projects
 
 ### [SauceDemo QA Automation Framework](https://github.com/MedinaAle20/saucedemo-qa-automation-framework)
-Automation project built with **Python, Selenium and Pytest**, focused on reusable test structure and validation of critical application flows.
 
-### [OrangeHRM Manual QA Testing](https://github.com/MedinaAle20/orangehrm-manual-qa-testing)
-Manual QA project containing test planning, scenarios, test cases, evidence and defect documentation.
+Python automation portfolio covering SauceDemo UI flows and JSONPlaceholder API checks. It separates UI and API suites, uses Page Object Model and runs headless tests in GitHub Actions.
 
-### [QA Documentation Agent](https://github.com/MedinaAle20/QA-Documentation-AgenteIA)
-AI-assisted project for generating structured QA artifacts such as test plans, test cases and traceability documentation.
+### [QA Documentation IA Agent](https://github.com/MedinaAle20/QA-Documentation-AgenteIA)
 
----
+Local Python application that uses AI to draft structured STLC documentation from requirements. Generated artifacts are intended for review and validation by a QA professional, not as a replacement for QA judgment.
 
-## 🛠️ Projects in Development
+## Additional public work
 
-I'm also working on larger projects where I apply software engineering, automation and quality practices:
+[OrangeHRM Manual QA Testing](https://github.com/MedinaAle20/orangehrm-manual-qa-testing) documents the initial scope and project charter for a manual testing portfolio project. Its execution artifacts are still in development, so it is not currently presented as a featured project.
 
-- **PixelForge** — local pixel-art production pipeline for Unity with deterministic processing and QA controls.
-- **Laia** — virtual assistant platform with workflow automation, persistence and integrations.
-- **Tobby: Treehouse TD** — game project used to practice structured development, testing and production workflows.
-- **Charvis** — local AI assistant architecture exploring memory, providers, orchestration and developer tooling.
+## Professional direction
 
-Some active projects remain private while they are under development.
+My progression is focused on connecting strong manual testing fundamentals with technical QA:
 
----
+**Test analysis → API testing → maintainable automation → quality engineering → data and AI quality**
 
-## 🧰 Tools, Frameworks & Reference Repositories
+Private product repositories are not highlighted as portfolio evidence until their documentation and public scope are ready.
 
-My GitHub also contains repositories used as **development tools, upstream projects, experiments or technical references**. These are not presented as original work.
+## Repository ownership
 
-Examples include:
+This profile contains original portfolio work and links to external tools used for learning or development. See the [Repository Map](./REPOSITORIES.md) for a concise ownership breakdown. External tools are not presented as my work.
 
-OmniRoute · GitNexus · agency-agents · agentic-qa-boilerplate · automaton · barehands · gstack · n8n · Chatwoot · Evolution API · open-notebook
+## Contact
 
-For a clearer ownership/project breakdown, see **[Repository Map](./REPOSITORIES.md)**.
+- [LinkedIn](https://www.linkedin.com/in/alejandro-medina-ar)
+- [Email](mailto:medinaale93@gmail.com)
 
----
-
-## 🎯 Current Direction
-
-My learning roadmap is focused on:
-
-**QA Foundations → Technical QA → Automation Engineering → Quality Engineering → Data & AI Quality → Security Foundations**
-
-The goal is to build production-oriented QA skills rather than isolated tool knowledge.
-
----
-
-## 📫 Contact
-
-- **LinkedIn:** [linkedin.com/in/alejandro-medina-ar](https://www.linkedin.com/in/alejandro-medina-ar)
-- **Email:** medinaale93@gmail.com
-
----
-
-> This profile is continuously updated as projects move from experimentation to portfolio-ready releases.

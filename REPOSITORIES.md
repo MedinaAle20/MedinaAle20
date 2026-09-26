@@ -1,50 +1,33 @@
 # Repository Map
 
-This file separates **original projects**, **portfolio work**, and **third-party tools/reference repositories** available on this GitHub account.
+This map separates public portfolio evidence, private original work and third-party tools.
 
-> Presence in this account does not imply authorship. Third-party repositories are kept for experimentation, integration, research or local development workflows.
+## Public portfolio
 
-## Original / Portfolio Projects
-
-| Repository | Type | Status |
+| Repository | Purpose | Current presentation |
 | --- | --- | --- |
-| `MedinaAle20` | GitHub profile / portfolio | Public |
-| `saucedemo-qa-automation-framework` | QA automation portfolio | Public |
-| `orangehrm-manual-qa-testing` | Manual QA portfolio | Public |
-| `QA-Documentation-AgenteIA` | QA + AI project | Public |
-| `PixelForge` | Original development project | Private / active |
-| `LaiaAgente` | Original development project | Private / active |
-| `tobby-treehouse-td-invasion-ants` | Original game project | Private / active |
-| `WspSimulator` | Supporting development project | Private |
+| [`saucedemo-qa-automation-framework`](https://github.com/MedinaAle20/saucedemo-qa-automation-framework) | Python UI and API automation | Featured |
+| [`QA-Documentation-AgenteIA`](https://github.com/MedinaAle20/QA-Documentation-AgenteIA) | AI-assisted QA documentation | Featured |
+| [`orangehrm-manual-qa-testing`](https://github.com/MedinaAle20/orangehrm-manual-qa-testing) | Manual QA planning and documentation | In development; not featured |
 
-## Third-party Tools / Frameworks / Research
+The `MedinaAle20` repository contains this GitHub profile and portfolio index.
 
-The following repositories are kept mainly as tools, upstream code, experiments or references and should **not** be interpreted as original work:
+## Private original projects
 
-- `agentic-qa-boilerplate`
-- `agency-agents`
-- `aseprite`
-- `automaton`
-- `awesome-n8n-templates`
-- `barehands`
-- `book-to-skill`
-- `cal.diy`
-- `chatwoot`
-- `ECC`
-- `evolution-api`
-- `GitNexus`
-- `gstack`
-- `n8n`
-- `n8n-nodes-waha`
-- `no-ai-slop`
-- `OmniRoute`
-- `Open-Generative-AI`
-- `open-notebook`
-- `Pixelorama`
-- `public-apis`
+These repositories contain original work but are not presented as public portfolio evidence:
 
-## Notes
+- `LaiaAgente`
+- `WspSimulator`
+- `PixelForge`
+- `tobby-treehouse-td-invasion-ants`
 
-- Projects stay private while they contain active implementation details or are not ready to represent portfolio-quality work.
-- Public portfolio repositories should have a clear README, setup instructions, test evidence and no secrets.
-- Tool/reference repositories are intentionally separated from authored work so recruiters and collaborators can identify original work quickly.
+Their private status and contents are not changed by this portfolio.
+
+## Third-party tools and references
+
+External projects are followed through Stars and documented separately in the private `research-and-tools` catalog. They are used as upstream tools or technical references and are not claimed as original work.
+
+## Publication standard
+
+A public portfolio repository should describe its real scope, link to existing artifacts, distinguish planned work from completed work and contain no secrets or private project data.
+
